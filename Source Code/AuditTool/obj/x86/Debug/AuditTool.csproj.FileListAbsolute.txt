@@ -1,0 +1,10 @@
+C:\Users\ACK\Dropbox\bank\AuditTool原始碼\AuditTool\bin\Debug\AuditTool.exe.config
+C:\Users\ACK\Dropbox\bank\AuditTool原始碼\AuditTool\obj\x86\Debug\AuditTool.exe
+C:\Users\ACK\Dropbox\bank\AuditTool原始碼\AuditTool\obj\x86\Debug\AuditTool.pdb
+C:\Users\ACK\Dropbox\bank\AuditTool原始碼\AuditTool\bin\Debug\AuditTool.exe
+C:\Users\ACK\Dropbox\bank\AuditTool原始碼\AuditTool\bin\Debug\AuditTool.pdb
+C:\Users\ACK\Dropbox\bank\AuditTool原始碼\AuditTool\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ACK\Dropbox\bank\AuditTool原始碼\AuditTool\obj\x86\Debug\AuditTool.MainForm.resources
+C:\Users\ACK\Dropbox\bank\AuditTool原始碼\AuditTool\obj\x86\Debug\AuditTool.Properties.Resources.resources
+C:\Users\ACK\Dropbox\bank\AuditTool原始碼\AuditTool\obj\x86\Debug\AuditTool.csprojResolveAssemblyReference.cache
+C:\Users\ACK\Dropbox\bank\AuditTool原始碼\AuditTool\obj\x86\Debug\AuditTool.csproj.GenerateResource.Cache

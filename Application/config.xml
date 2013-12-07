@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<server ip="127.0.0.1" port="8888"></server>
+	<client name="ACK-PC" >
+		<versionRoot>
+		C:\TEST2
+		</versionRoot>
+		<onlineRoot>
+		C:\TEST2-online
+		</onlineRoot>
+
+	</client>
+</configuration>
+	
+	
